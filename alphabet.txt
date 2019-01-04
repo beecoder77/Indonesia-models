@@ -29,4 +29,13 @@ w
 x
 y
 z
+\
+'
+`
+.
+,
+!
+(
+)
+?
 # The last (non-comment) line needs to end with a newline.
